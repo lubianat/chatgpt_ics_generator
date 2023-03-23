@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//NONSGML Event//EN
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20230330T100000
+DTEND;TZID=America/Sao_Paulo:20230330T110000
+SUMMARY:Keynote 3 - Marco S Nobile (University of Venice)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20230330T110000
+DTEND;TZID=America/Sao_Paulo:20230330T123000
+SUMMARY:Symposium 2 - Bioinformatics and IA
+DESCRIPTION:Milton Nishiyama Júnior (Instituto Butantan)\nRaquel Minardi (UFMG)\nTetsu Sakamoto (UFRN)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20230330T123000
+DTEND;TZID=America/Sao_Paulo:20230330T130000
+SUMMARY:Brunch & Poster
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20230330T130000
+DTEND;TZID=America/Sao_Paulo:20230330T131500
+SUMMARY:Technical Lecture 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20230330T131500
+DTEND;TZID=America/Sao_Paulo:20230330T141500
+SUMMARY:Keynote 4 - Ana Tereza Ribeiro de Vasconcelos (LNCC)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20230330T141500
+DTEND;TZID=America/Sao_Paulo:20230330T153000
+SUMMARY:Forum 2 - Entrepreneurs
+DESCRIPTION:Carolina Minnicelli (MicroCiclo)\nMarcel Ribeiro-Dantas (Seqera Labs)\nRodrigo Romão (UFRN)
+END:VEVENT
+END:VCALENDAR
